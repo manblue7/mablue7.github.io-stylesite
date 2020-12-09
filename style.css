@@ -178,7 +178,7 @@ header p {
     }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 480px) {
     .colorbox {
         width: 70px;
         margin: 4px;
