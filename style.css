@@ -108,14 +108,13 @@ header p {
 
 
 .colorbox {
-    min-width: 100px;
-    min-height: 100px;
-    width: 150px;
+    height: 75px;
+    width: 30%;
     margin: 20px;
 }
 
 .darkcolors {
-    margin-top: 50px;
+    margin-top: 20px;
     color: #121212;
     display: flex;
     justify-content: space-around;
