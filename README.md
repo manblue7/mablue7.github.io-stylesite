@@ -1,1 +1,3 @@
-# mablue7.github.io-stylesite
+# A site for showing styles
+
+A www.codecademy.com project
