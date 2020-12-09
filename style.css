@@ -178,5 +178,14 @@ header p {
     }
 }
 
+@media only screen and (max-width: 400px) {
+    .colorbox {
+        width: 30%x;
+        margin: 5px;
+    }
+
+    
+}
+
 
 
